@@ -1,0 +1,17 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "[javascript]": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.autoClosingComments": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
